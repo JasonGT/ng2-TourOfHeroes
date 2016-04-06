@@ -1,2 +1,2 @@
-#ng2-QuickStart
-Build and run a super-simple Angular 2 application in TypeScript. See https://angular.io/docs/ts/latest/quickstart.html.
+#ng2-TourOfHeroes
+Build an app to help a staffing agency manage its stable of heroes. Even heroes need to find work. See https://angular.io/docs/ts/latest/tutorial/.
